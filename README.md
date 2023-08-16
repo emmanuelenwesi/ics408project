@@ -1,2 +1,2 @@
-# ics408project
-A simple chat application using python
+# Python-Live-Chat-App
+Uses Flask Sockets to create a live chat room application.
